@@ -8,3 +8,13 @@ C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Black Jack\obj\Debug\Black
 C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Black Jack\bin\Debug\Casino.dll
 C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Black Jack\bin\Debug\Casino.pdb
 C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.CopyComplete
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe.config
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\bin\Debug\Casino.dll
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\bin\Debug\Casino.pdb
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.CopyComplete
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.exe
+C:\Users\micuc\Documents\GitHub\C-and-.NET-Framework-Projects\Black-Jack\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
