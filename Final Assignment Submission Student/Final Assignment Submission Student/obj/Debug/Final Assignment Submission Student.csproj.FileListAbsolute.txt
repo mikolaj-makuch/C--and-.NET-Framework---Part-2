@@ -1,0 +1,12 @@
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\Final Assignment Submission Student.exe.config
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\Final Assignment Submission Student.exe
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\Final Assignment Submission Student.pdb
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\obj\Debug\Final Assignment Submission Student.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\obj\Debug\Final Assignment Submission Student.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\obj\Debug\Final Assignment Submission Student.exe
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\obj\Debug\Final Assignment Submission Student.pdb
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\EntityFramework.dll
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\EntityFramework.xml
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micuc\Documents\GitHub\C--and-.NET-Framework---Part-2\Final Assignment Submission Student\Final Assignment Submission Student\obj\Debug\Final Assignment Submission Student.csproj.CopyComplete
