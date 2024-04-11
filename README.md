@@ -12,4 +12,4 @@ This project is an MVC web appliaction that mimics a car insurance website. It t
 
 # Black Jack
 
-This project is a visualization of a popular casino game called Black Jack or twenty-one. You can almost feel like you are in a real casino. 
+This project is a visualization of a popular casino game called Black Jack or twenty-one. You can almost feel like you are in a real casino. The draft includes an fraud exception so players can't cheat.
