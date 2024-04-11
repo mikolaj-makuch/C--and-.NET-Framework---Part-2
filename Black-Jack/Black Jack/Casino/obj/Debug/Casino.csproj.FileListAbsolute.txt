@@ -1,0 +1,6 @@
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\bin\Debug\Casino.dll
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\bin\Debug\Casino.pdb
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\obj\Debug\Casino.dll
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\obj\Debug\Casino.pdb
+C:\Users\micuc\Documents\GitHub\Black-Jack\Black Jack\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
